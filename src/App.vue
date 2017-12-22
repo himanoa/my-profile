@@ -8,7 +8,6 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld';
 import Head from './components/Head';
 import AboutMe from './components/AboutMe';
 import Social from './components/Social';
@@ -17,7 +16,6 @@ import Footer from './components/Footer';
 export default {
   name: 'app',
   components: {
-    HelloWorld,
     Head,
     AboutMe,
     Social,
