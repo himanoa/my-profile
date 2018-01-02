@@ -13,10 +13,10 @@
     <h3>Mastodon</h3>
     <p><small>main(<a href="https://friends.nico">friends.nico</a>)</small></p>
     <a href="https://friends.nico/@himanoa">@himanoa</a>
-    <p><small>sub(<a href="https://mstdn.maud.io">mstdn.maud.io</a>)</small></p>
-    <a href="https://maud.io/@himanoa">@himanoa</a>
     <h3>Steam</h3>
     <a href="https://steamcommunity.com/id/komeizi">himanoa</a>
+    <h3>League of Legends</h3>
+    <a href="http://jp.op.gg/summoner/userName=Himanoa">Himanoa</a>
     <h3>Qiita</h3>
     <a href="https://qiita.com/himanoa">himanoa</a>
     <h3>Hatena</h3>
