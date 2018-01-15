@@ -21,6 +21,11 @@
     <a href="https://qiita.com/himanoa">himanoa</a>
     <h3>Hatena</h3>
     <a href="http://profile.hatena.ne.jp/himanoa/">himanoa</a>
+    <h3>Discord</h3>
+    <p>himanoa#9467</p>
+    <h4>MyDiscordServer</h4>
+    <a href="https://discord.gg/8pe5CWd">一緒にゲームしたりするぞ！！！！！！！！！！！</a>
+    
   </div>
 </template>
 <style scoped>
